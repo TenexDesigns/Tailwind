@@ -7,6 +7,20 @@ In this example, the text that the user selects within the paragraph will have a
 
 
 
+ We’ve designed the selection modifier to be inheritable, so you can add it anywhere in the tree and it will be applied to all descendant elements.
+
+This makes it easy to set the selection color to match your brand across your entire site:
+
+<html>
+<head>
+  <!-- ... -->
+</head>
+<body class="selection:bg-pink-300">
+  <!-- ... -->
+</body>
+</html>
+
+
 MORE EXPLANANTION
   *****************************************************************************************************
 Highlighted text in Tailwind CSS can be achieved in several ways.
