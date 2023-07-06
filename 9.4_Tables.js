@@ -1,3 +1,22 @@
+dISCUSS WITH CODE SAMPLES THE FOLLWING TOPICS ON Tables in tailwindcss "
+Border Collapse
+Border Spacing
+Table Layout
+Caption Side"
+
+
+
+
+
+
+
+
+MORE EXPLANANTION
+************************************************************************************************************888
+
+
+
+
 Border Collapse
 
 The border-{setting} utilities control whether table borders should collapse or be separated. {setting} can be 'collapse' or 'separate'.
