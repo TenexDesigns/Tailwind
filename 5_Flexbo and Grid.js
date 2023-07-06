@@ -1,4 +1,39 @@
-Certainly! Here's a discussion of the flexbox and grid topics you mentioned in Tailwind CSS, along with code samples for each:
+------> Discuss the follwing topics in Flexbox & Grid
+Flex Basis
+Flex Direction
+Flex Wrap
+Flex
+Flex Grow
+Flex Shrink
+Order
+Grid Template Columns
+Grid Column Start / End
+Grid Template Rows
+Grid Row Start / End
+Grid Auto Flow
+Grid Auto Columns
+Grid Auto Rows
+Gap
+Justify Content
+Justify Items
+Justify Self
+Align Content
+Align Items
+Align Self
+Place Content
+Place Items
+Place Self
+
+
+
+
+MORE EXPLANANTION
+***************************************************************************************************
+
+
+
+
+Certainly! Heres a discussion of the flexbox and grid topics you mentioned in Tailwind CSS, along with code samples for each:
 
 Flexbox:
 
