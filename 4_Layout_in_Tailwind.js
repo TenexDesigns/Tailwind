@@ -1,3 +1,35 @@
+DISCUSS THE FOLLWING TOPICS IN Layout=====>
+  
+Aspect Ratio
+Container
+Columns
+Break After
+Break Before
+Break Inside
+Box Decoration Break
+Box Sizing
+Display
+Floats
+Clear
+Isolation
+Object Fit
+Object Position
+Overflow
+Overscroll Behavior
+Position
+Top / Right / Bottom / Left
+Visibility
+Z-Index
+
+
+
+
+
+
+MORE EXPLANANTION
+************************************************************************************************************************
+
+
 Aspect Ratio
 
 Tailwind CSS allows you to create responsive elements that maintain a specific aspect ratio. This is useful for embedding content like iframes or images that need to be displayed at a specific aspect ratio.
