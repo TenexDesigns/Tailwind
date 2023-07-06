@@ -28,7 +28,7 @@ tailwindcss.com
 
 Border Spacing
 
-Tailwind CSS doesn't provide default utilities for controlling border-spacing. However, you can add custom utilities to your configuration.
+Tailwind CSS doesnt provide default utilities for controlling border-spacing. However, you can add custom utilities to your configuration.
 
 module.exports = {
   theme: {
