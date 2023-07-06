@@ -15,7 +15,7 @@ Gradient Color Stops"
 MORE EXPLANANTION
 ************************v************************v*******************************************************************************************************************
 
-Certainly! Here's a discussion of the border-related topics you mentioned in Tailwind CSS, along with code samples for each:
+Certainly! Heres a discussion of the border-related topics you mentioned in Tailwind CSS, along with code samples for each:
 
 Border Radius:
 The rounded-{size} class sets the border radius of an element.
