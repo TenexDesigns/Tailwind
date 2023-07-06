@@ -1,3 +1,17 @@
+-------> Discusss Spacing
+Padding
+Margin
+Space Between
+
+
+
+
+
+
+MORE EXPLANATION
+************************************************************************************************************************
+
+
 Padding
 
 Padding in Tailwind CSS can be controlled using the p-{size} classes for all sides at once, or pt-{size}, pr-{size}, pb-{size}, pl-{size} for individual sides (top, right, bottom, left). The {size} can be replaced with a number from 0 to 64, or 'px' to apply a single pixel of padding.
