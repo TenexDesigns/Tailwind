@@ -1,3 +1,23 @@
+------Discuss Sizing
+Width
+Min-Width
+Max-Width
+Height
+Min-Height
+Max-Height
+
+
+
+
+
+
+
+
+
+
+MORE EXPLANANTION
+******************************************************************************************************************************
+
 Width
 
 The w-{size} utilities in Tailwind CSS control the width of an element. {size} can be a number from 0 to 96, 'auto', 'px', '1/2', '1/3', '2/3', '1/4', '2/4', '3/4', '1/5', '2/5', '3/5', '4/5', '1/6', '2/6', '3/6', '4/6', '5/6', 'full', or 'screen'.
