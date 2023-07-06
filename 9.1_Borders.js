@@ -1,4 +1,4 @@
-Discuss with code samples the follwing topics on Background in tailwind css "
+Discuss with code samples the follwing topics on Background in tailwind css ======>
 Background Attachment
 Background Clip
 Background Color
@@ -7,13 +7,13 @@ Background Position
 Background Repeat
 Background Size
 Background Image
-Gradient Color Stops"
+Gradient Color Stops
 
 
 
 
 MORE EXPLANANTION
-************************v************************v*******************************************************************************************************************
+*****************************************************************************************************************************************************************
 
 Certainly! Heres a discussion of the border-related topics you mentioned in Tailwind CSS, along with code samples for each:
 
