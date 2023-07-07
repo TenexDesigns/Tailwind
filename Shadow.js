@@ -1,4 +1,4 @@
-In Tailwind CSS, you can apply box shadows to HTML elements using utility classes. Here's an explanation of the shadow utilities in Tailwind CSS:
+In Tailwind CSS, you can apply box shadows to HTML elements using utility classes. Heres an explanation of the shadow utilities in Tailwind CSS:
 
 Shadow Utilities:
 To apply a box shadow to an element, you can use utility classes like shadow-{size}, where {size} represents the shadow size. Tailwind provides a range of predefined shadow sizes, such as sm, md, lg, xl, and 2xl, which increase in intensity from small to large.
