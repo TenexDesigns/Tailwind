@@ -28,8 +28,34 @@ module.exports = {
 Learn more about customizing the default theme in the theme customization documentation.
 
 
+  'wiggle 1s ease-in-out infinite',   and { animation: example 5s linear 2s infinite alternate;}
+***********************************
+In the CSS animation shorthand property animation, the values represent different aspects of the animation. Let's break down the values in the example you provided:
+
+css
+Copy code
+animation: example 5s linear 2s infinite alternate;
+example: Specifies the name of the keyframe animation to be applied. In this case, it refers to an animation named "example" that has been defined using @keyframes.
+
+5s: Defines the duration of the animation. It specifies how long the animation should take to complete one cycle. In this example, the animation will run for 5 seconds.
+
+linear: Specifies the timing function of the animation. It determines the rate at which the animation progresses over time. linear means that the animation progresses at a constant speed from start to end.
+
+2s: Sets the delay before the animation starts. It determines how long the animation should wait before beginning. In this case, there will be a 2-second delay before the animation starts.
+
+infinite: Specifies that the animation should repeat indefinitely. It causes the animation to restart from the beginning once it completes. The animation will keep looping continuously.
+
+alternate: Indicates that the animation should alternate direction on each iteration. It means that after completing one iteration, the animation will reverse its direction and play in reverse on the next iteration.
+
+By combining these values, the animation will have a duration of 5 seconds, a linear timing function, a delay of 2 seconds before starting, and it will repeat indefinitely in an alternating manner.
+
+You can customize these values based on your specific animation requirements.
 
 
+***********************************
+
+
+  
 MORE EXPLANANTION
   *********V******************************************************************************************
 
