@@ -22,7 +22,7 @@ Backdrop Sepia:"
 
   MORE EXPLANANTION
 ***************************************************************************************************************************************************88
-Certainly! Here's a discussion of the filter-related topics you mentioned in Tailwind CSS, along with code samples for each:
+Certainly! Heres a discussion of the filter-related topics you mentioned in Tailwind CSS, along with code samples for each:
 
 Blur:
 The blur-{size} class applies a blur effect to an element.
