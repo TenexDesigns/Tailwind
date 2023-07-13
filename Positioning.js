@@ -19,7 +19,7 @@ The element is positioned relative to its normal position. It still takes up spa
 sticky:
 
 position: sticky;
-The element is positioned based on the user's scroll position. It behaves like relative until it reaches a specific scroll position, then it becomes fixed.
+The element is positioned based on the users scroll position. It behaves like relative until it reaches a specific scroll position, then it becomes fixed.
 Example:
 
 html
