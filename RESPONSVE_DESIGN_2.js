@@ -1,4 +1,4 @@
-Sure, let's take a look at how to use breakpoints in Tailwind CSS to create responsive designs, and how to avoid excessive work with them, illustrated with code examples.
+Sure, lets take a look at how to use breakpoints in Tailwind CSS to create responsive designs, and how to avoid excessive work with them, illustrated with code examples.
 
 Tailwind CSS provides five default breakpoints:
 
@@ -14,11 +14,12 @@ To apply a style only at a certain breakpoint, you prefix the utility with the b
 </div>
 In this example, the text-sm class applies by default (for mobile), and as the screen size increases, the text size increases at each breakpoint.
 
-However, it's not practical or necessary to apply all these breakpoints to every element. Here are some ways to avoid excessive work:
+However, its not practical or necessary to apply all these breakpoints to every element. Here are some ways to avoid excessive work:
 
 1. Start with a mobile-first approach:
 
-By default, Tailwind uses a mobile-first breakpoint system, meaning that unprefixed utilities (like text-sm) take effect on all screen sizes, then you can add styles for larger screens as needed. This can help minimize the amount of code you need to write.
+By default, Tailwind uses a mobile-first breakpoint system, meaning that unprefixed utilities (like text-sm) take effect on all screen sizes, 
+    then you can add styles for larger screens as needed. This can help minimize the amount of code you need to write.
 
 <div class="text-sm md:text-lg">
     This text will be `text-sm` on mobile and `text-lg` on medium screens and up.
