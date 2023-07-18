@@ -26,3 +26,16 @@ Copy code
 In the above code, the div element will have a smooth color transition, a 300ms duration, an ease-in-out easing function, a 200ms delay, a translation of 2 pixels on the x-axis, a rotation of 45 degrees, a scale of 125%, a blur effect of 2 pixels, a medium-sized shadow, a skew transformation of 12 degrees on the x-axis, and a linear gradient background from blue to purple.
 
 By combining these animation-related utility classes, you can create dynamic and visually appealing animations and transitions in your Tailwind CSS projects.
+
+
+
+  You can also combine the animation with other utility classes to create more complex effects. For instance:
+
+html
+Copy code
+<div class="animate-wiggle transform-gpu transition-transform duration-500 hover:rotate-12">Animated Element</div>
+In this example, the animate-wiggle class is combined with transform-gpu to enable hardware acceleration, transition-transform to add smooth transitions, and hover:rotate-12 to rotate the element by 12 degrees on hover.
+
+By defining custom animations using @keyframes in the theme configuration and applying the corresponding animation utility class to your HTML elements, you can create dynamic and visually engaging animations in Tailwind CSS.
+
+Remember to recompile your CSS whenever you make changes to the Tailwind configuration to ensure that the custom animations are available.
