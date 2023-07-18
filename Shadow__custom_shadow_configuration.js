@@ -1,4 +1,4 @@
-In Tailwind CSS, the syntax used to apply a shadow effect is quite flexible and allows you to customize the shadow properties. Let's break down the syntax you provided:
+In Tailwind CSS, the syntax used to apply a shadow effect is quite flexible and allows you to customize the shadow properties. Lets break down the syntax you provided:
 
 shadow-[0_0_10px_theme('colors.purple.700')]
 
